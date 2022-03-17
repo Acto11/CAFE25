@@ -12,3 +12,6 @@
 + 깃허브 페이지로 배포 
 
 [링크](https://acto11.github.io/CAFE25/)
+
+# 2022년 3월 17일 오전
++ favicon 추가
